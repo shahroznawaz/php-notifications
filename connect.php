@@ -1,4 +1,4 @@
 <?php 
 //connect.php;
-$con = mysqli_connect("localhost", "root", "", "notif");
+$con = mysqli_connect("localhost", "yvwxxxxgfz", "jxxx7xxCe", "yxxaajxxxz");
 ?>
