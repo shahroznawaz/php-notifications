@@ -1,6 +1,7 @@
 <?php
 include('connect.php');
 
+
 if(isset($_POST['view'])){
 
 // $con = mysqli_connect("localhost", "root", "", "notif");
